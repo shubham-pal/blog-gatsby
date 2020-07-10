@@ -5,6 +5,8 @@ date: "2020-07-08"
 
 I just made a new website using gatsby.
 
+![Nature](./nature.png)
+
 ## Topics Covered
 
 1. Gatsby
