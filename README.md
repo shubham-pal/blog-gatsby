@@ -14,17 +14,26 @@
     Copy this url and paste it in your terminal.
 
     ```shell
-    
+
     git clone https://github.com/shubham-pal/blog-gatsby.git
+    ```
+
+1.  **Install dependencies.**
+
+    Navigate into your new site’s directory and install dependencies using npm.
+
+    ```shell
+    cd blog-gatsby
+    npm install
     ```
 
 1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+    Start your site.
 
     ```shell
-    cd blog-gatsby/
-    gatsby develop
+    cp .env.example .env
+    npm run develop
     ```
 
 1.  **Open the source code and start editing!**
@@ -84,5 +93,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-
