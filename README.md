@@ -6,6 +6,7 @@
 <h1 align="center">
   Blog
 </h1>
+<a href="https://blog-gatsby-demo.netlify.app/">Link to demo</a>
 
 ## 🚀 Quick start
 
